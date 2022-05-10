@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-yuescript
+target: yue
+
+cmds:
+  - cmd: /Yuescript/bin/release/yue @@
